@@ -108,7 +108,7 @@ pip install -e .
 
 ### Claude Code Skill（更省 token）
 
-项目内置 `.claude/skills/coolapk.md`，clone 进工作目录后 Claude Code 可直接当 skill 用；CLI 无协议开销，输出更紧凑。
+项目内置 `.claude/skills/coolapk/SKILL.md`，clone 进工作目录后 Claude Code 可直接当 skill 用；CLI 无协议开销，输出更紧凑。
 
 ### 注册的 MCP Tools
 
